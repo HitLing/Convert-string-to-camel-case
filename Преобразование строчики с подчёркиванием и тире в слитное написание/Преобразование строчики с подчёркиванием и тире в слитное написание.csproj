@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Преобразование_строчики_с_подчёркиванием_и_тире_в_слитное_написание</RootNamespace>
+  </PropertyGroup>
+
+</Project>
